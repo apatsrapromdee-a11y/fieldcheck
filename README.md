@@ -53,8 +53,7 @@ A Flutter app to check in at a location: take a photo, record GPS coordinates, a
 |---|---|---|
 | ![Home](screenshots/Home.png) | ![New Check-In](screenshots/New_Check-In.png) | ![Detail](screenshots/Detail.png) |
 
-A short demo video is available here: https://github.com/user-attachments/assets/31bb435f-caf1-4490-b4ea-476b5166d14a
-
+A short demo video is available here: https://github.com/user-attachments/assets/b1638646-610b-42e7-8882-9d2effc8712f
 ---
 
 ## Requirements Checklist
@@ -104,3 +103,5 @@ lib/
     ├── gps_card.dart
     └── photo_card.dart
 ```
+
+
