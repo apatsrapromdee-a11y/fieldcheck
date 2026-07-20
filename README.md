@@ -52,7 +52,7 @@ A Flutter app to check in at a location: take a photo, record GPS coordinates, a
 
 | Home / History | New Check-In | Check-In Detail |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![New Check-In](screenshots/new_checkin.png) | ![Detail](screenshots/detail.png) |
+| ![Home](screenshots/Home.png) | ![New Check-In](screenshots/New_Check-In.png) | ![Detail](screenshots/Detail.png) |
 
 A short demo video is available here: `screenshots/demo.mp4` (or link to an uploaded video, e.g. YouTube/Google Drive).
 
